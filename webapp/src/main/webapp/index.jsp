@@ -4,10 +4,12 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="firstName"><b>Enter first Name</b></label>
+    <input type="text" placeholder="Enter first Name" name="firstName" id="firstName" required>
     <br>
-    
+    <label for="LastName"><b>Enter Lastname</b></label>
+    <input type="text" placeholder="Enter Last name" name="LastName" id="LastName" required>
+    <br>
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
